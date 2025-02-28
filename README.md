@@ -1,0 +1,68 @@
+# Gothic Sheets
+
+## About
+This is my attempt to create datasheets for the tabletop game Battlefleet Gothic (BFG) (first published 1999 by GamesWorkshop and canceled 2013).
+
+## Datasheets
+
+Here are some examples of datasheets that were created using my templates.
+
+### Capital Ships
+<p float="left">
+  <img src="Datasheets/PNG/Tau/Battleship_Custodian.png" alt="Battlefleet Gothic Datasheet Custodian" width="40%" style="margin-right: 15%;"/>
+  <img src="Datasheets/PNG/Eldar/Cruiser_Dragonship.png" alt="Battlefleet Gothic Datasheet Dragonship" width="40%" style="margin-right: 15%;"/>
+</p>
+
+### Escort Ships
+<p float="left">
+  <img src="Datasheets/PNG/Tau/Escort_Castellan.png" alt="Battlefleet Gothic Datasheet Castellan" width="40%" style="margin-right: 15%;"/>
+  <img src="Datasheets/PNG/Eldar/Escort_Shadowhunter.png" alt="Battlefleet Gothic Datasheet Shadowhunter" width="40%" style="margin-right: 15%;"/>
+</p>
+
+More are available in the [Datasheets](Datasheets/) folder.
+
+## Templates
+
+This repository contains 2 SVG templates, created with [Inkscape](https://inkscape.org/):
+
+* [Capital Ship](Templates/Capital_Ship_A6.svg) (A6 format)
+* [Escort Ship](Templates/Escort_Ship_80x120.svg) (80mm x 120mm)
+
+Use Inkscape to create new datasheets from these templates. The fonts used in the templates can be found in the [Assets](Assets/Fonts/) folder.
+
+## Rules
+
+The latest official BFG rules, originally published by Games Workshop in various books, have been compiled into two "remastered" rulebooks.
+These are are available for free at [specialist-arms.com/bfg](https://www.specialist-arms.com/bfg/).
+To play, you'll need both the "Remastered Official Rulebook" and the "Remastered Official Fleets Book."
+
+## Miniatures
+
+Official miniatures from GW are no longer in production, but there are many alternatives to explore.
+
+If you have access to a 3D printer, be sure to check out the two "Starter Kits":
+
+* [Battlefleet Gothic Starter Kit](https://drive.google.com/drive/folders/1Kpg6ZuDmFc5axXa6sUBiJrQiFuZIlbAu)
+* [Battlefleet Gothic Starter Kit Advanced ](https://drive.google.com/drive/folders/1dxTeLC2bTnlUfzN_RJF788wHmYBhMa6C)
+
+In addition to STL files for the ships, they also include rules and tokens.
+
+If you prefer purchasing your miniatures, there are various shops available, such as:
+
+* [Battlefleet Galaxy](https://battlefleetgalaxy.com/)
+* [Scourge Scenics](https://www.scourgescenics.co.uk/shop/product-category/space-combat)
+
+## Other Resources
+
+Check out the "Turbidious" [Website](https://portinvicta.weebly.com/) and [Youtube channel](http://www.youtube.com/@turbidious) for BFG tactics, battle reports and more.
+
+## Licensing
+
+You are free to use and modify the SVG files in this repository for personal, non-commercial purposes.
+However, you are not permitted to sell datasheets based on the files in this repository or use them in any commercial manner.
+
+This repository includes copyrighted images of "Battlefleet Gothic" ships, extracted from the "Remastered Official Fleets Book" (PDF), available for free at [Specialist Arms](https://www.specialist-arms.com/bfg/).
+These images are not required for the datasheets and are only used to enhance their visual appearance.
+
+This site is entirely unofficial and is in no way endorsed by, or endorses, Games Workshop.
+Games Workshop, Battlefleet Gothic and the Battlefleet Gothic logo are either ® or TM, and/or © Games Workshop Limited.
