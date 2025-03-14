@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.8284271"
-     inkscape:cx="211.24815"
-     inkscape:cy="191.62594"
+     inkscape:cx="188.26718"
+     inkscape:cy="191.80272"
      inkscape:window-width="2506"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -372,7 +372,15 @@
    <![CDATA[
     .fil0 {fill:black;fill-rule:nonzero}
    ]]>
-  </style></defs><g
+  </style></defs><rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.7789"
+     id="rect48"
+     width="148"
+     height="105"
+     x="0"
+     y="0"
+     inkscape:label="Background"
+     sodipodi:insensitive="true" /><g
      id="g42"
      inkscape:label="Clone Templates"
      inkscape:highlight-color="#000000"
@@ -8607,7 +8615,7 @@
          id="tspan2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Black Ops One';-inkscape-font-specification:'Black Ops One';stroke-width:0.264583"
          x="3.6603584"
-         y="7.4252987">Cruiser - Solaris</tspan></text></g><style
+         y="7.4252987">Light Cruiser - Solaris</tspan></text></g><style
      type="text/css"
      id="style1">
 	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}

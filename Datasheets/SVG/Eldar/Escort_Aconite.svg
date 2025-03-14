@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
-   sodipodi:docname="Escort_Agonite.svg"
+   sodipodi:docname="Escort_Aconite.svg"
    xml:space="preserve"
    inkscape:export-filename="../../PNG/Eldar/Escort_Aconite.png"
    inkscape:export-xdpi="300"
@@ -29,7 +29,7 @@
      inkscape:document-units="mm"
      inkscape:zoom="2.95"
      inkscape:cx="229.32203"
-     inkscape:cy="158.64407"
+     inkscape:cy="158.47458"
      inkscape:window-width="2506"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -76,7 +76,15 @@
 		
 	
 	
-</defs><g
+</defs><rect
+     style="display:inline;fill:#ffffff;stroke:none;stroke-width:2.166;stroke-dasharray:none"
+     id="rect1"
+     width="120"
+     height="80"
+     x="3.618164e-07"
+     y="4.1601564e-07"
+     inkscape:label="Background"
+     sodipodi:insensitive="true" /><g
      id="g42"
      inkscape:label="Clone Templates"
      inkscape:highlight-color="#000000"

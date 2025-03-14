@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="4"
-     inkscape:cx="189.375"
-     inkscape:cy="166.75"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="315.19285"
+     inkscape:cy="194.9847"
      inkscape:window-width="2506"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -372,7 +372,16 @@
    <![CDATA[
     .fil0 {fill:black;fill-rule:nonzero}
    ]]>
-  </style></defs><g
+  </style></defs><rect
+     style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.7789"
+     id="rect48"
+     width="148"
+     height="105"
+     x="-0.53644902"
+     y="-37.028564"
+     inkscape:label="Background"
+     sodipodi:insensitive="true"
+     transform="translate(0.53644901,37.028562)" /><g
      id="g42"
      inkscape:label="Clone Templates"
      inkscape:highlight-color="#000000"
@@ -3255,6 +3264,28 @@
          inkscape:highlight-color="#000000"
          style="display:inline"
          sodipodi:insensitive="true" /><g
+         id="g741"
+         inkscape:label="Reload Reminder"
+         style="display:inline"
+         transform="translate(0.012265,-18.337286)"
+         inkscape:highlight-color="#000000"
+         sodipodi:insensitive="true"><path
+           id="use740"
+           style="display:inline;fill:none;stroke:#343434;stroke-width:0.131933"
+           inkscape:label="Frame"
+           d="m 64.476999,58.498174 h -3.684033 v -3.618068 h 3.684033"
+           sodipodi:nodetypes="cccc" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';display:inline;fill:#a8a8a8;fill-opacity:1;stroke-width:0.264583"
+           x="61.425884"
+           y="57.83205"
+           id="use741"
+           inkscape:label="Text"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Black Ops One';-inkscape-font-specification:'Black Ops One';fill:#a8a8a8;fill-opacity:1;stroke-width:0.264583"
+             x="61.425884"
+             y="57.83205">R</tspan></text></g><g
          id="g589"
          inkscape:label="Firing Arcs (Circles)"
          style="display:none"

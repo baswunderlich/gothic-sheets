@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.8284271"
-     inkscape:cx="161.92745"
-     inkscape:cy="191.62594"
+     inkscape:cx="330.57242"
+     inkscape:cy="191.80272"
      inkscape:window-width="2506"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -372,7 +372,15 @@
    <![CDATA[
     .fil0 {fill:black;fill-rule:nonzero}
    ]]>
-  </style></defs><g
+  </style></defs><rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.7789"
+     id="rect48"
+     width="148"
+     height="105"
+     x="0"
+     y="0"
+     inkscape:label="Background"
+     sodipodi:insensitive="true" /><g
      id="g42"
      inkscape:label="Clone Templates"
      inkscape:highlight-color="#000000"
@@ -4946,6 +4954,28 @@
          inkscape:label="Frame"
          style="display:inline"
          inkscape:highlight-color="#000000" /><g
+         id="g719"
+         inkscape:label="Reload Reminder"
+         inkscape:highlight-color="#000000"
+         style="display:inline"
+         transform="translate(-0.96694613,-26.446001)"
+         sodipodi:insensitive="true"><path
+           id="use718"
+           style="display:inline;fill:none;stroke:#343434;stroke-width:0.134944"
+           inkscape:label="Frame"
+           d="m -9.528919,88.099694 h -3.682527 v -3.786647 h 3.682527"
+           sodipodi:nodetypes="cccc" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';display:inline;fill:#a8a8a8;fill-opacity:1;stroke-width:0.264583"
+           x="-12.580033"
+           y="87.415428"
+           id="use719"
+           inkscape:label="Text"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Black Ops One';-inkscape-font-specification:'Black Ops One';fill:#a8a8a8;fill-opacity:1;stroke-width:0.264583"
+             x="-12.580033"
+             y="87.415428">R</tspan></text></g><g
          id="g509"
          inkscape:label="Firing Arcs (Circles)"
          style="display:inline"
@@ -8607,7 +8637,7 @@
          id="tspan2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Black Ops One';-inkscape-font-specification:'Black Ops One';stroke-width:0.264583"
          x="3.6603584"
-         y="7.4252987">Cruiser - Aurora</tspan></text></g><style
+         y="7.4252987">Light Cruiser - Aurora</tspan></text></g><style
      type="text/css"
      id="style1">
 	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}

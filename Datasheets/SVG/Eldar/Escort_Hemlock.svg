@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.95"
-     inkscape:cx="229.49153"
-     inkscape:cy="158.98305"
+     inkscape:cx="229.66102"
+     inkscape:cy="158.81356"
      inkscape:window-width="2506"
      inkscape:window-height="1371"
      inkscape:window-x="0"
@@ -76,7 +76,15 @@
 		
 	
 	
-</defs><g
+</defs><rect
+     style="display:inline;fill:#ffffff;stroke:none;stroke-width:2.166;stroke-dasharray:none"
+     id="rect1"
+     width="120"
+     height="80"
+     x="3.618164e-07"
+     y="4.1601564e-07"
+     inkscape:label="Background"
+     sodipodi:insensitive="true" /><g
      id="g42"
      inkscape:label="Clone Templates"
      inkscape:highlight-color="#000000"

@@ -28,14 +28,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.8284271"
-     inkscape:cx="178.72124"
-     inkscape:cy="191.62594"
+     inkscape:cx="207.71262"
+     inkscape:cy="191.80272"
      inkscape:window-width="2506"
      inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g267"
+     inkscape:current-layer="g43"
      inkscape:lockguides="false"
      inkscape:export-bgcolor="#ffffffff"><sodipodi:guide
        position="0,102"
@@ -372,7 +372,15 @@
    <![CDATA[
     .fil0 {fill:black;fill-rule:nonzero}
    ]]>
-  </style></defs><g
+  </style></defs><rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.7789"
+     id="rect48"
+     width="148"
+     height="105"
+     x="0"
+     y="0"
+     inkscape:label="Background"
+     sodipodi:insensitive="true" /><g
      id="g42"
      inkscape:label="Clone Templates"
      inkscape:highlight-color="#000000"
@@ -3255,6 +3263,28 @@
          inkscape:highlight-color="#000000"
          style="display:inline"
          sodipodi:insensitive="true" /><g
+         id="g741"
+         inkscape:label="Reload Reminder"
+         style="display:inline"
+         transform="translate(0.012265,-18.337286)"
+         inkscape:highlight-color="#000000"
+         sodipodi:insensitive="true"><path
+           id="use740"
+           style="display:inline;fill:none;stroke:#343434;stroke-width:0.131933"
+           inkscape:label="Frame"
+           d="m 64.476999,58.498174 h -3.684033 v -3.618068 h 3.684033"
+           sodipodi:nodetypes="cccc" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';display:inline;fill:#a8a8a8;fill-opacity:1;stroke-width:0.264583"
+           x="61.425884"
+           y="57.83205"
+           id="use741"
+           inkscape:label="Text"><tspan
+             sodipodi:role="line"
+             id="tspan59"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Black Ops One';-inkscape-font-specification:'Black Ops One';fill:#a8a8a8;fill-opacity:1;stroke-width:0.264583"
+             x="61.425884"
+             y="57.83205">R</tspan></text></g><g
          id="g589"
          inkscape:label="Firing Arcs (Circles)"
          style="display:none"
@@ -3930,6 +3960,28 @@
          inkscape:label="Frame"
          style="display:inline"
          inkscape:highlight-color="#000000" /><g
+         id="g716"
+         inkscape:label="Reload Reminder"
+         inkscape:highlight-color="#000000"
+         style="display:inline"
+         transform="translate(1.3338499,-28.319716)"
+         sodipodi:insensitive="true"><path
+           id="use714"
+           style="display:inline;fill:none;stroke:#343434;stroke-width:0.134944"
+           inkscape:label="Frame"
+           d="m -9.528919,88.099694 h -3.682527 v -3.786647 h 3.682527"
+           sodipodi:nodetypes="cccc" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';display:inline;fill:#a8a8a8;fill-opacity:1;stroke-width:0.264583"
+           x="-12.580033"
+           y="87.415428"
+           id="use715"
+           inkscape:label="Text"><tspan
+             sodipodi:role="line"
+             id="tspan50"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Black Ops One';-inkscape-font-specification:'Black Ops One';fill:#a8a8a8;fill-opacity:1;stroke-width:0.264583"
+             x="-12.580033"
+             y="87.415428">R</tspan></text></g><g
          id="g557"
          inkscape:label="Firing Arcs (Circles)"
          style="display:inline"
@@ -6463,7 +6515,11 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
            x="6.0353804"
            y="58.272923"
-           id="tspan6">Choose one prow and one keel weapon option</tspan><tspan
+           id="tspan6">Choose <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold'"
+   id="tspan61">one</tspan> prow and <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold'"
+   id="tspan63">one</tspan> keel weapon option</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
            x="6.0353804"
