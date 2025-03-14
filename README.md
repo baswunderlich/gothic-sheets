@@ -30,6 +30,9 @@ This repository contains 2 SVG templates, created with [Inkscape](https://inksca
 
 Use Inkscape to create new datasheets from these templates. The fonts used in the templates can be found in the [Assets](Assets/Fonts/) folder.
 
+Make sure to use the templates for creating new datasheets instead of modifying existing ones.
+They may contain fixes and improvements that have not yet been applied to the existing datasheets.
+
 ## Rules
 
 The latest official BFG rules, originally published by Games Workshop in various books, have been compiled into two "remastered" rulebooks.
@@ -49,8 +52,9 @@ In addition to STL files for the ships, they also include rules and tokens.
 
 If you prefer purchasing your miniatures, there are various shops available, such as:
 
-* [Battlefleet Galaxy](https://battlefleetgalaxy.com/)
-* [Scourge Scenics](https://www.scourgescenics.co.uk/shop/product-category/space-combat)
+* [Battlefleet Galaxy](https://battlefleetgalaxy.com/) (UK)
+* [Scourge Scenics](https://www.scourgescenics.co.uk/shop/product-category/space-combat) (UK)
+* [TableTopStuff](https://tabletop-stuff.de/Battlefleet-Colossus/) (DE)
 
 ## Other Resources
 
