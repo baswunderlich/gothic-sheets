@@ -39,6 +39,9 @@ The latest official BFG rules, originally published by Games Workshop in various
 These are are available for free at [specialist-arms.com/bfg](https://www.specialist-arms.com/bfg/).
 To play, you'll need both the "Remastered Official Rulebook" and the "Remastered Official Fleets Book."
 
+There are also community (fan-made) rulesets available, such as [BFG 2020](https://drive.google.com/drive/folders/19eiBarXkcZkScyWyEKEzcjhdG_-HJARt), which introduces alternating activations.
+You can find a list of community rulesets at the [Specialist Arms forum](https://www.specialist-arms.com/forum/index.php?topic=5203.0).
+
 ## Miniatures
 
 Official miniatures from GW are no longer in production, but there are many alternatives to explore.
