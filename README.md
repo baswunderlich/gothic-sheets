@@ -25,8 +25,8 @@ More are available in the [Datasheets](Datasheets/) folder.
 
 This repository contains 2 SVG templates, created with [Inkscape](https://inkscape.org/):
 
-* [Capital Ship](Templates/Capital_Ship_A6.svg) (A6 format)
-* [Escort Ship](Templates/Escort_Ship_80x120.svg) (80mm x 120mm)
+* [Capital Ship](Templates/Capital_Ship_A6.svg) (148mm x 105mm, A6 format)
+* [Escort Ship](Templates/Escort_Ship_80x120.svg) (120mm x 80mm, "Dixit" format)
 
 Use Inkscape to create new datasheets from these templates. The fonts used in the templates can be found in the [Assets](Assets/Fonts/) folder.
 
@@ -35,12 +35,30 @@ They may contain fixes and improvements that have not yet been applied to the ex
 
 ## Rules
 
-The latest official BFG rules, originally published by Games Workshop in various books, have been compiled into two "remastered" rulebooks.
+The latest official BFG rules, originally published by Games Workshop in various books and FAQs, have been compiled into two "remastered" rulebooks.
 These are are available for free at [specialist-arms.com/bfg](https://www.specialist-arms.com/bfg/).
-To play, you'll need both the "Remastered Official Rulebook" and the "Remastered Official Fleets Book."
+To play, you'll need both the "Remastered Official Rulebook" and the "Remastered Official Fleets Book".
 
 There are also community (fan-made) rulesets available, such as [BFG 2020](https://drive.google.com/drive/folders/19eiBarXkcZkScyWyEKEzcjhdG_-HJARt), which introduces alternating activations.
 You can find a list of community rulesets at the [Specialist Arms forum](https://www.specialist-arms.com/forum/index.php?topic=5203.0).
+
+## Markers
+
+BFG requires various markers for play, such as blast and ordnance markers. You can find lots of them in the [Markers](Assets/Markers) folder.
+
+While even more markers can be found for free online, be sure to check their sizes before using them. Here’s a list of the sizes (width x height) for some of the most important BFG markers:
+
+* Attack craft: 20mm x 20mm
+* Torpedoes: 25mm x 20mm
+* Blast marker: 30mm x 25mm
+* Nova cannon template: 50mm
+
+Many markers can be replaced with 3D printed tokens. Here are some examples:
+
+* Attack craft: [Barracudas (Cults3D)](https://cults3d.com/en/3d-model/game/battlefleet-gothic-tau-ordinance)
+* Torpedoes: [Cults3D](https://cults3d.com/en/3d-model/game/torpedo-tray-for-12mm-die)
+* Blast markers: [Thingiverse](https://www.thingiverse.com/thing:3529981)
+* Nova cannon template: [Cults3D](https://cults3d.com/en/3d-model/game/bfg-nova-cannon-template)
 
 ## Miniatures
 
@@ -51,7 +69,7 @@ If you have access to a 3D printer, be sure to check out the two "Starter Kits":
 * [Battlefleet Gothic Starter Kit](https://drive.google.com/drive/folders/1Kpg6ZuDmFc5axXa6sUBiJrQiFuZIlbAu)
 * [Battlefleet Gothic Starter Kit Advanced ](https://drive.google.com/drive/folders/1dxTeLC2bTnlUfzN_RJF788wHmYBhMa6C)
 
-In addition to STL files for the ships, they also include rules and tokens.
+In addition to STL files for the ships, they also include rules and markers.
 
 If you prefer purchasing your miniatures, there are various shops available, such as:
 
