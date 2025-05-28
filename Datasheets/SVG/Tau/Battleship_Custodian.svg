@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    sodipodi:docname="Battleship_Custodian.svg"
-   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
    xml:space="preserve"
    inkscape:export-filename="../../PNG/Tau/Battleship_Custodian.png"
    inkscape:export-xdpi="300"
@@ -28,14 +28,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.8284271"
-     inkscape:cx="274.53421"
+     inkscape:cx="274.71099"
      inkscape:cy="202.40932"
      inkscape:window-width="2506"
      inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1"
+     inkscape:current-layer="g11"
      inkscape:lockguides="false"
      inkscape:export-bgcolor="#ffffffff"><sodipodi:guide
        position="0,102"
@@ -6833,7 +6833,9 @@
            id="tspan257"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans';text-align:start;text-anchor:start;stroke-width:0.264583"
            x="6.0353804"
-           y="58.272923">Tracking system has range 20cm.</tspan></text><circle
+           y="58.272923">Equipped <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Italic'"
+   id="tspan5">Tracking System</tspan> has range 20 cm.</tspan></text><circle
          style="fill:#000000;fill-opacity:1;stroke-width:0.0494728;stroke-dasharray:none"
          id="use258"
          cx="4.641223"
