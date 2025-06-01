@@ -1,7 +1,7 @@
 # Gothic Sheets
 
 ## About
-This is my attempt to create datasheets for the tabletop game Battlefleet Gothic (BFG) (first published 1999 by GamesWorkshop and canceled 2013).
+This is my attempt to create datasheets for the tabletop game Battlefleet Gothic (BFG) (published 1999 by GamesWorkshop), as well as to provide a nice starting point for new players.
 
 ## Datasheets
 
@@ -41,6 +41,11 @@ To play, you'll need both the "Remastered Official Rulebook" and the "Remastered
 
 If you prefer a nicely printed version of the rulebook, check out [this video](https://www.youtube.com/watch?v=EYfSbst3iNg) by Simon Saier, the maintainer of the "Remastered Rulebook".
 He also offers higher quality PDFs intended for printing [here](https://linktr.ee/bfg.remastered).
+
+<p float="left">
+  <img src="Web/Images/Remastered_Rulebook_1.jpg" alt="Printed Remastered Rulebook 1" width="40%" style="margin-right: 15%;"/>
+  <img src="Web/Images/Remastered_Rulebook_2.jpg" alt="Printed Remastered Rulebook 2" width="40%" style="margin-right: 15%;"/>
+</p>
 
 There are community (fan-made) rulesets available, such as [BFG 2020](https://drive.google.com/drive/folders/19eiBarXkcZkScyWyEKEzcjhdG_-HJARt), which introduces alternating activations.
 You can find a list of community rulesets at the [Specialist Arms forum](https://www.specialist-arms.com/forum/index.php?topic=5203.0).
