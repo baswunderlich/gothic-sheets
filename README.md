@@ -50,6 +50,11 @@ He also offers higher quality PDFs intended for printing [here](https://linktr.e
 There are community (fan-made) rulesets available, such as [BFG 2020](https://drive.google.com/drive/folders/19eiBarXkcZkScyWyEKEzcjhdG_-HJARt), which introduces alternating activations.
 You can find a list of community rulesets at the [Specialist Arms forum](https://www.specialist-arms.com/forum/index.php?topic=5203.0).
 
+### Quick Reference Sheets
+
+The original BFG Reference Sheet is available [here](Quick_References/PDF/Battlefleet_Gothic_Reference_Sheet.pdf). If you're an experienced player, you probably only need the gunnery table,
+so I've created one in a smaller format (A6). It's available in the [Quick_References](Quick_References/) folder.
+
 ## Markers
 
 BFG requires various markers for play, such as blast and ordnance markers. You can find lots of them in the [Markers](Assets/Markers) folder.
