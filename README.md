@@ -47,7 +47,7 @@ He also offers higher quality PDFs intended for printing [here](https://linktr.e
   <img src="Web/Images/Remastered_Rulebook_2.jpg" alt="Printed Remastered Rulebook 2" width="40%" style="margin-right: 15%;"/>
 </p>
 
-There are community (fan-made) rulesets available, such as [BFG 2020](https://drive.google.com/drive/folders/19eiBarXkcZkScyWyEKEzcjhdG_-HJARt), which introduces alternating activations.
+There are also community (fan-made) rulesets available, such as [BFG 2020](https://drive.google.com/drive/folders/19eiBarXkcZkScyWyEKEzcjhdG_-HJARt), which introduces alternating activations.
 You can find a list of community rulesets at the [Specialist Arms forum](https://www.specialist-arms.com/forum/index.php?topic=5203.0).
 
 ### Quick Reference Sheets
@@ -89,6 +89,11 @@ If you prefer purchasing your miniatures, there are various shops available, suc
 * [Battlefleet Galaxy](https://battlefleetgalaxy.com/) (UK)
 * [Scourge Scenics](https://www.scourgescenics.co.uk/shop/product-category/space-combat) (UK)
 * [TableTopStuff](https://tabletop-stuff.de/Battlefleet-Colossus/) (DE)
+
+### Miniature Sizes
+
+One of the most common questions when printing (or designing) BFG miniatures, is about the correct sizes. The following website contains the sizes of all official BFG miniatures:
+[https://portinvicta.weebly.com/general-hobby/battlefleet-gothic-ship-measurements](https://portinvicta.weebly.com/general-hobby/battlefleet-gothic-ship-measurements)
 
 ## Other Resources
 
