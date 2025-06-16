@@ -72,6 +72,7 @@ Many markers can be replaced with 3D printed tokens. Here are some examples:
 * Torpedoes: [Cults3D](https://cults3d.com/en/3d-model/game/torpedo-tray-for-12mm-die)
 * Blast markers: [Thingiverse](https://www.thingiverse.com/thing:3529981)
 * Nova cannon template: [Cults3D](https://cults3d.com/en/3d-model/game/bfg-nova-cannon-template)
+* Compass: [Cults3D](https://cults3d.com/de/modell-3d/spiel/battlefleet-gothic-3d-compass)
 
 ## Miniatures
 
@@ -84,6 +85,14 @@ If you have access to a 3D printer, be sure to check out the two "Starter Kits":
 
 In addition to STL files for the ships, they also include rules and markers.
 
+More STLs are available from various designers. Here are some of them:
+
+* [Italianmoose](https://cults3d.com/en/users/Italianmoose/3d-models)
+* [Tempest Shipyards](https://cults3d.com/en/users/Tempest_Shipyards/3d-models)
+* [Fusion Shipyards](https://cults3d.com/en/users/Fusion_Shipyards/3d-models)
+* [Arcane Shipyard](https://cults3d.com/en/users/ArcaneShipyard/3d-models)
+* [Space Cowboys](https://cults3d.com/en/users/SpaceCowboys/3d-models)
+
 If you prefer purchasing your miniatures, there are various shops available, such as:
 
 * [Battlefleet Galaxy](https://battlefleetgalaxy.com/) (UK)
@@ -95,9 +104,24 @@ If you prefer purchasing your miniatures, there are various shops available, suc
 One of the most common questions when printing (or designing) BFG miniatures, is about the correct sizes. The following website contains the sizes of all official BFG miniatures:
 [https://portinvicta.weebly.com/general-hobby/battlefleet-gothic-ship-measurements](https://portinvicta.weebly.com/general-hobby/battlefleet-gothic-ship-measurements)
 
+## Missions
+
+The Remastered Rulebook includes 10 independent scenarios and another 10 as part of two campaigns. The [Missions](Missions/) folder contains all the scenarios that I could find on the web.
+
 ## Other Resources
 
 Check out the "Turbidious" [Website](https://portinvicta.weebly.com/) and [Youtube channel](http://www.youtube.com/@turbidious) for BFG tactics, battle reports and more.
+
+And, of course, join the Battlefleet Gothic Discord server: https://discord.gg/battlefleet-gothic-789707310461222923.
+
+## Contributing
+
+There are multiple ways you can contribute to this project, such as:
+
+* Checking the datasheets for errors and reporting them by creating a GitHub issue.
+* Creating new datasheets (or fixing existing ones) and opening a Pull Request.
+* Checking if all the links on this page are still valid, and reporting any broken links through GitHub issues.
+* If you know of important resources that are missing on this page, request their addition by creating a GitHub issue.
 
 ## Licensing
 
