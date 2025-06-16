@@ -73,6 +73,8 @@ Many markers can be replaced with 3D printed tokens. Here are some examples:
 * Blast markers: [Thingiverse](https://www.thingiverse.com/thing:3529981)
 * Nova cannon template: [Cults3D](https://cults3d.com/en/3d-model/game/bfg-nova-cannon-template)
 * Compass: [Cults3D](https://cults3d.com/de/modell-3d/spiel/battlefleet-gothic-3d-compass)
+* Special orders (dice): [Cults3D](https://cults3d.com/en/3d-model/game/battlefleet-gothic-orders-dice-supported)
+* Special orders (flat): [Thingiverse](https://www.thingiverse.com/thing:3543728)
 
 ## Miniatures
 
