@@ -95,7 +95,7 @@ More STLs are available from various designers. Here are some of them:
 * [Arcane Shipyard](https://cults3d.com/en/users/ArcaneShipyard/3d-models)
 * [Space Cowboys](https://cults3d.com/en/users/SpaceCowboys/3d-models)
 
-If you prefer purchasing your miniatures, there are various shops available, such as:
+If you prefer purchasing physical miniatures, there are various shops available, such as:
 
 * [Battlefleet Galaxy](https://battlefleetgalaxy.com/) (UK)
 * [Scourge Scenics](https://www.scourgescenics.co.uk/shop/product-category/space-combat) (UK)
