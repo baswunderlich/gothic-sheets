@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.95"
-     inkscape:cx="214.91525"
-     inkscape:cy="185.9322"
+     inkscape:zoom="8.34386"
+     inkscape:cx="188.40201"
+     inkscape:cy="227.89213"
      inkscape:window-width="2506"
      inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1"
+     inkscape:current-layer="g126"
      inkscape:lockguides="false"
      inkscape:export-bgcolor="#ffffffff"><sodipodi:guide
        position="0,76.999999"
@@ -602,7 +602,7 @@
          id="g19"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,44.624452,63.12807)"
+         transform="rotate(45,46.898203,68.617391)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -643,7 +643,7 @@
            inkscape:label="Text" /></g><g
          id="g629"
          inkscape:label="Firing Arcs (Circles)"
-         style="display:inline"
+         style="display:none"
          transform="rotate(45,84.63521,21.473915)"><use
            x="0"
            y="0"
@@ -691,7 +691,7 @@
            style="display:inline" /></g><g
          id="g177"
          inkscape:label="Firing Arcs (Cross)"
-         style="display:none"
+         style="display:inline"
          transform="matrix(0.345611,0.345611,-0.345611,0.345611,67.934889,35.548643)"><use
            x="0"
            y="0"
@@ -769,7 +769,7 @@
          id="g18"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,40.454334,64.855389)"
+         transform="rotate(45,42.797993,70.513483)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -937,7 +937,8 @@
          y="0"
          xlink:href="#rect175"
          id="use399"
-         inkscape:label="Background" /><use
+         inkscape:label="Background"
+         transform="translate(0,-0.05234343)" /><use
          x="0"
          y="0"
          xlink:href="#text51"
@@ -969,7 +970,7 @@
          id="g21"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,95.112926,146.89258)"
+         transform="rotate(45,97.66412,153.05171)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -1010,7 +1011,7 @@
            inkscape:label="Text" /></g><g
          id="g589"
          inkscape:label="Firing Arcs (Circles)"
-         style="display:inline"
+         style="display:none"
          transform="rotate(45,135.42316,105.89911)"><use
            x="0"
            y="0"
@@ -1151,7 +1152,7 @@
          id="g14"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,38.044216,70.882322)"
+         transform="rotate(45,40.387875,76.540415)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -1192,7 +1193,7 @@
            inkscape:label="Text" /></g><g
          id="g581"
          inkscape:label="Firing Arcs (Circles)"
-         style="display:inline"
+         style="display:none"
          transform="rotate(45,78.124883,29.396939)"><use
            x="0"
            y="0"
@@ -1318,7 +1319,8 @@
          y="0"
          xlink:href="#rect175"
          id="use395"
-         inkscape:label="Background" /><use
+         inkscape:label="Background"
+         transform="translate(0,-0.05234303)" /><use
          x="0"
          y="0"
          xlink:href="#text177"
@@ -1350,7 +1352,7 @@
          id="g36"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,103.80409,143.29258)"
+         transform="rotate(45,106.35529,149.45171)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -1391,7 +1393,7 @@
            inkscape:label="Text" /></g><g
          id="g565"
          inkscape:label="Firing Arcs (Circles)"
-         style="display:inline"
+         style="display:none"
          transform="rotate(45,144.11433,102.29911)"><use
            x="0"
            y="0"
@@ -1532,7 +1534,7 @@
          id="g12"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,35.145488,68.977096)"
+         transform="rotate(45,37.489147,74.63519)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -1698,7 +1700,8 @@
          y="0"
          xlink:href="#rect175"
          id="use391"
-         inkscape:label="Background" /><use
+         inkscape:label="Background"
+         transform="translate(0,-0.05234293)" /><use
          x="0"
          y="0"
          xlink:href="#text51"
@@ -1729,7 +1732,7 @@
          id="g44"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,112.49526,139.69258)"
+         transform="rotate(45,115.04645,145.85171)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -1754,7 +1757,7 @@
          sodipodi:insensitive="true" /><g
          id="g541"
          inkscape:label="Firing Arcs (Circles)"
-         style="display:inline"
+         style="display:none"
          transform="rotate(45,152.8055,98.699108)"><use
            x="0"
            y="0"
@@ -1895,7 +1898,7 @@
          id="g9"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,33.506394,67.141718)"
+         transform="rotate(45,35.850053,72.799811)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -2062,7 +2065,8 @@
          y="0"
          xlink:href="#rect175"
          id="use387"
-         inkscape:label="Background" /><use
+         inkscape:label="Background"
+         transform="translate(0,-0.05234293)" /><use
          x="0"
          y="0"
          xlink:href="#text51"
@@ -2094,7 +2098,7 @@
          id="g45"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,121.18643,136.09258)"
+         transform="rotate(45,123.73762,142.25171)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -2135,7 +2139,7 @@
            inkscape:label="Text" /></g><g
          id="g517"
          inkscape:label="Firing Arcs (Circles)"
-         style="display:inline"
+         style="display:none"
          transform="rotate(45,161.49666,95.099107)"><use
            x="0"
            y="0"
@@ -2276,7 +2280,7 @@
          id="g7"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,31.733317,67.136647)"
+         transform="rotate(45,34.076976,72.79474)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -2317,7 +2321,7 @@
            inkscape:label="Text" /></g><g
          id="g509"
          inkscape:label="Firing Arcs (Circles)"
-         style="display:inline"
+         style="display:none"
          transform="rotate(45,71.813983,25.651263)"><use
            x="0"
            y="0"
@@ -2443,7 +2447,8 @@
          y="0"
          xlink:href="#rect175"
          id="use379"
-         inkscape:label="Background" /><use
+         inkscape:label="Background"
+         transform="translate(0,-0.05234333)" /><use
          x="0"
          y="0"
          xlink:href="#text51"
@@ -2475,7 +2480,7 @@
          id="g47"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,129.8776,132.49258)"
+         transform="rotate(45,132.42879,138.65171)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -2516,7 +2521,7 @@
            inkscape:label="Text" /></g><g
          id="g493"
          inkscape:label="Firing Arcs (Circles)"
-         style="display:inline"
+         style="display:none"
          transform="rotate(45,170.18783,91.499108)"><use
            x="0"
            y="0"
@@ -2657,7 +2662,7 @@
          id="g6"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,29.427669,66.612669)"
+         transform="rotate(45,31.701419,72.101987)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -2698,7 +2703,7 @@
            inkscape:label="Text" /></g><g
          id="g486"
          inkscape:label="Firing Arcs (Circles)"
-         style="display:inline"
+         style="display:none"
          transform="rotate(45,69.438426,24.958511)"><use
            x="0"
            y="0"
@@ -2746,7 +2751,7 @@
            style="display:inline" /></g><g
          id="g141"
          inkscape:label="Firing Arcs (Cross)"
-         style="display:none"
+         style="display:inline"
          transform="matrix(0.345611,0.345611,-0.345611,0.345611,65.947835,47.315007)"><use
            x="0"
            y="0"
@@ -2824,7 +2829,8 @@
          y="0"
          xlink:href="#rect175"
          id="use186"
-         inkscape:label="Background" /><use
+         inkscape:label="Background"
+         transform="translate(0,-0.05234343)" /><use
          x="0"
          y="0"
          xlink:href="#text51"
@@ -2855,7 +2861,7 @@
          id="g57"
          inkscape:label="Checkbox"
          style="display:none"
-         transform="rotate(45,138.56877,128.89258)"
+         transform="rotate(45,141.11996,135.05171)"
          inkscape:highlight-color="#000000"
          sodipodi:insensitive="true"><use
            x="0"
@@ -2896,7 +2902,7 @@
            inkscape:label="Text" /></g><g
          id="g462"
          inkscape:label="Firing Arcs (Circles)"
-         style="display:inline"
+         style="display:none"
          transform="rotate(45,178.87901,87.899103)"><use
            x="0"
            y="0"
@@ -3035,10 +3041,9 @@
        style="display:inline"><g
          id="g3"
          inkscape:label="Checkbox"
-         style="display:none"
-         transform="rotate(45,28.371746,66.606345)"
-         inkscape:highlight-color="#000000"
-         sodipodi:insensitive="true"><use
+         style="display:inline"
+         transform="rotate(45,30.645574,72.095852)"
+         inkscape:highlight-color="#000000"><use
            x="0"
            y="0"
            xlink:href="#rect13"
@@ -3077,7 +3082,7 @@
            inkscape:label="Text" /></g><g
          id="g450"
          inkscape:label="Firing Arcs (Circles)"
-         style="display:inline"
+         style="display:none"
          transform="rotate(45,68.382581,24.952376)"><use
            x="0"
            y="0"
@@ -3125,7 +3130,7 @@
            style="display:inline" /></g><g
          id="g135"
          inkscape:label="Firing Arcs (Cross)"
-         style="display:none"
+         style="display:inline"
          transform="matrix(0.345611,0.345611,-0.345611,0.345611,65.634248,48.059805)"><use
            x="0"
            y="0"
@@ -3205,7 +3210,8 @@
          y="0"
          xlink:href="#rect175"
          id="use411"
-         inkscape:label="Background" /><use
+         inkscape:label="Background"
+         transform="translate(0,-0.05234343)" /><use
          x="0"
          y="0"
          xlink:href="#text51"
@@ -4576,14 +4582,14 @@
          sodipodi:nodetypes="cccc"
          inkscape:label="Frame"
          inkscape:highlight-color="#000000" /></g></g><image
-     width="39.941906"
-     height="22.286427"
+     width="45"
+     height="25.108696"
      preserveAspectRatio="xMidYMid"
      style="image-rendering:optimizeQuality"
      xlink:href="../Assets/Images/Tau/Escort_Castellan.png"
      id="image1"
-     x="6.6299629"
-     y="12.058738"
+     x="4"
+     y="10.803088"
      inkscape:label="Ship Image"
      inkscape:highlight-color="#ff5555" /><path
      style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
