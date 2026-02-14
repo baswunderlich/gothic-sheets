@@ -36,7 +36,7 @@ They may contain fixes and improvements that have not yet been applied to the ex
 ## Rules
 
 The latest official BFG rules, originally published by Games Workshop in various books and FAQs, have been compiled into two "remastered" rulebooks.
-These are are available for free at [specialist-arms.com/bfg](https://www.specialist-arms.com/bfg/).
+These are are available for free at [horizon-bfg.infinityfree.me](https://horizon-bfg.infinityfree.me).
 To play, you'll need both the "Remastered Official Rulebook" and the "Remastered Official Fleets Book".
 
 If you prefer a nicely printed version of the rulebook, check out [this video](https://www.youtube.com/watch?v=EYfSbst3iNg) by Simon Saier, the maintainer of the "Remastered Rulebook".
