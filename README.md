@@ -48,7 +48,6 @@ He also offers higher quality PDFs intended for printing [here](https://linktr.e
 </p>
 
 There are also community (fan-made) rulesets available, such as [BFG 2020](https://drive.google.com/drive/folders/19eiBarXkcZkScyWyEKEzcjhdG_-HJARt), which introduces alternating activations.
-You can find a list of community rulesets at the [Specialist Arms forum](https://www.specialist-arms.com/forum/index.php?topic=5203.0).
 
 ### Quick Reference Sheets
 
@@ -87,13 +86,14 @@ If you have access to a 3D printer, be sure to check out the two "Starter Kits":
 
 In addition to STL files for the ships, they also include rules and markers.
 
-More STLs are available from various designers. Here are some of them:
+More STLs are available from various sources. Here are some of them:
 
 * [Italianmoose](https://cults3d.com/en/users/Italianmoose/3d-models)
 * [Tempest Shipyards](https://cults3d.com/en/users/Tempest_Shipyards/3d-models)
 * [Fusion Shipyards](https://cults3d.com/en/users/Fusion_Shipyards/3d-models)
 * [Arcane Shipyard](https://cults3d.com/en/users/ArcaneShipyard/3d-models)
 * [Space Cowboys](https://cults3d.com/en/users/SpaceCowboys/3d-models)
+* [ArcaneEternal](https://makerworld.com/de/collections/3306018-battlefleet-gothic)
 
 If you prefer purchasing physical miniatures, there are various shops available, such as:
 
@@ -108,13 +108,19 @@ One of the most common questions when printing (or designing) BFG miniatures, is
 
 ## Missions
 
-The Remastered Rulebook includes 10 independent scenarios and another 10 as part of two campaigns. The [Missions](Missions/) folder contains all the scenarios that I could find on the web.
+The Remastered Rulebook includes 10 independent scenarios and another 10 as part of two campaigns.
+
+A collection of over 200 scenarios can be found at [https://scenario-library.kuldare.com/](https://scenario-library.kuldare.com/).
+
+## Fleet builder
+
+The latest online fleet builder is available at [https://bfgtools.kuldare.com/](https://bfgtools.kuldare.com/).
 
 ## Other Resources
 
 Check out the "Turbidious" [Website](https://portinvicta.weebly.com/) and [Youtube channel](http://www.youtube.com/@turbidious) for BFG tactics, battle reports and more.
 
-And, of course, join the Battlefleet Gothic Discord server: https://discord.gg/battlefleet-gothic-789707310461222923.
+And, of course, join the Battlefleet Gothic Discord server: [https://discord.gg/battlefleet-gothic-789707310461222923](https://discord.gg/battlefleet-gothic-789707310461222923).
 
 ## Contributing
 
